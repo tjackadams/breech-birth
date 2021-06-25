@@ -38,6 +38,7 @@ const PostFooter = ({}) => {
               aria-label="Faye Twitter profile"
               target="_blank"
               href="https://twitter.com/faye_tomkins"
+              rel="nofollow noopener noreferrer"
             >
               <i className="bi bi-twitter"></i>
             </a>
