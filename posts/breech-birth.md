@@ -7,19 +7,33 @@ published_date: 'June 24th, 2021'
 Hello. My name is Faye and I wanted to write my experience on a vaginal breech delivery I had with my second son (and my last child!) on 11th June 2021. 
 When I was offered a vaginal breech delivery, I couldn’t find any blog on peoples personal experiences and only articles which I didn’t find helpful. I wanted to ask questions of someone who had actually experienced it. Hence I have created this blog to help other expecting mums who may be thinking of having a Breech Vaginal Birth. I hope this helps and if you have any questions please feel free to leave a comment and I will get back to you.
 
-## How we got there
+## Humble Beginnings
 
-Prior to 11th June I had one son named Jackson who was aged 7. I was 26 when I gave birth to him. He was a vaginal delivery and nice and straight forward. I had an epidural so didn’t feel hardly anything! It was great! I was induced and Jackson arrived 16 days late at a lovely 6lb 6oz. I measured very small all the way through so had regular growth scans. I’m naturally a smaller build so carried a small bump.
-On my second pregnancy I was 34 and because I measured small with Jackson they automatically put me forward for regular growth scans. I was small again but then my dear son grew nicely towards the end and was back on track come 32 weeks. 
-On the 32 weeks scan he was breech but I didn’t worry as they say they usually turn before 36 weeks. They booked me in for another scan at 36 weeks and this is when they said he was Breech and would unlikely turn by himself. This is where it all began! 
-The doctor who saw me after the scan had said I had the following options.
-1.	An ECV – This is where they attempt to manually turn the baby. I read horror stories about this! But see my experience further on. 
-2.	A C-section – They offered to skip the ECV and book me straight in at 39 weeks for a c-section.
-3.	An in his words – We don’t recommend; however, you can have a vaginal breech birth and we will fully support your decision.
+Before the 11th June I had one son named Jackson who at the time was 7 years old. I was 26 when I gave birth to him. He was a normal straight forward vaginal delivery. During labour I requested an [epidural](https://www.nhs.uk/conditions/epidural/), it was great, I hardly felt anything!
+I was 16 days late with Jackson which forced an [induced](https://www.nhs.uk/pregnancy/labour-and-birth/signs-of-labour/inducing-labour/) labour, but he arrived safely weighing a lovely 6lb 6oz. During the pregnancy with Jackson, I regularly measured small on the growth charts resulting in regular growth scans.
 
-When a doctor says “We don’t recommend” I am not one to say. “Sign me up!”. This to me says there are more risks and it’s a big no-no! I asked why? His response was “It can cause damage to the hips and will need a hip scan etc”. Therefore, I said no and I went for the ECV option. I asked him was there any natural way of trying to help him turn. He said Not at all they are all nonsense! (So many Mums telling me to go on all 4’s or lie upside down etc). Apparently, all nonsense and again… what will be will be! 
-A C-Section was a last resort for me as I moved location around 4 years prior and had no family support etc. I had Jackson to take to school etc and could not risk not driving for 6 weeks and losing my independence. I am also a clean freak and don’t like people doing things for me so a C-Section would take this from me, and I knew it would absolute ruin me for 6 weeks so I would try anything! However, I thought “what will be, will be”. Let us try the ECV and if unsuccessful then we go for the C-Section as the vaginal breech delivery was a No-No as “He didn’t recommend it”. This made me think there was a risk to me or my son and regardless of how much I liked my independence. I would never risk my children or myself for it. 
-After this consultation I looked up online about vaginal breech and was alarmed to see an article that vaginal breech deliveries could cause 26% more chance of the child developing autism. I was happy with my decision and completely ruled out the Vaginal Breech delivery. (Or so I thought).
+![Antenatal Weight Chart](/antenatal-weight-chart.png "Example growth chart")
+
+ As this was my second pregnancy and because I measured small with Jackson, I was automatically put forward for regular growth scans. During this second pregnancy, he was in the 5th percentile on this growth chart. By 32 weeks, he had managed to get back on track. During this scan, they mentioned that he was breech. This didn't concern me too much at the time, its quite common and the baby usually would turn before 36 weeks. I was booked in for another scan at 36 weeks to check on the progress and see if he has turned or not. This is where it all began, the doctor said that he was breech and it would be unlikely now that he turns by himself. This is due to the reduced space within the womb for him to move around.
+
+ The doctor proceeded to offer me the following options:
+
+1. [ECV](https://www.nbt.nhs.uk/maternity-services/pregnancy/pregnancy-complications/breech-baby-at-end-pregnancy-ecv) procedure – This procedure involves trying to manually turn the baby from outside of the womb. I've not heard or read good things about this process, but have a read of my experience further down.
+2.	[Caesarean section](https://www.nhs.uk/conditions/caesarean-section/) – This would mean skipping the ECV and having the c-section at 39 weeks.
+3.	*"We don’t recommend; however, you can have a vaginal breech birth and we will fully support your decision."*
+
+Hearing a doctor say *"We don't recommend"* did not instil me with confidence. I'm not going to jump up and say *"Sign me up!"* to a procedure that isn't recommended. Questions started to race through my brain, but what I wanted to know is *"why?"*.
+The doctors response was that a vaginal breech birth can cause damage to the hips along with some other complications. I had heard enough, sign me up for the ECV procedure please! 
+
+I was curious to see if there was any natural methods of turning the baby such as those seen on websites like [spinning babies](https://www.spinningbabies.com/pregnancy-birth/baby-position/breech/flip-a-breech/). Quite a few mothers have suggested I try these techniques as they had a lot of joy with them. I decided to get the opinion of a medical professional whilst I can. The doctor replied confident **No**, *they are all nonsense!*
+
+For me, the C-section would be a last resort. Roughly 4 years before this I moved from the West Midlands to Mansfield so I could live with my partner. The downside of this was that I didn't have any of my own family support within reasonable distance. Who would take Jackson to and from School? Who would look after my new son? Who would do chores around the house? I couldn't stand be doing nothing for 6 weeks, I have my mental health and well-being to think about. Yes, I know I could rely on my partner and his family to help out, but he only has 2 weeks of paternity, so what happens for the remaining 4 weeks? Besides, I like my independence and I like to clean! I'm most happy when I'm active and getting on with things. 
+Let's try the ECV procedure and if its unsuccessful then I would have no choice but to go for the C-section.
+
+> We don’t recommend; however, you can have a vaginal breech birth and we will fully support your decision.
+
+After this consultation I researched online about vaginal breech deliveries. Most of the content that was available referenced a study that was published in April 2009. The result of this study was children diagnosed with Autism Spectrum Disorder were more than twice as likely to have been born breech.
+I was happy with my decision to go down the path of ECV -> C-section thus ruling out the vaginal breech delivery...For now.
 
 ## The ECV
 

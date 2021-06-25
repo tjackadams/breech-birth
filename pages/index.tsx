@@ -7,6 +7,7 @@ import ReactMarkdown from "react-markdown";
 import PostMeta from "@components/PostMeta";
 import PostFooter from "@components/PostFooter";
 import SocialIconBar from "@components/SocialIconBar";
+import remarkExternalLinks, { ExternalLinks } from "remark-external-links";
 
 type IndexProps = {
   title: string;
@@ -36,7 +37,9 @@ const Index = ({
                   <div className="row justify-content-center postcontent">
                     <div className="col-12">
                       <PostMeta {...frontmatter} />
-                      <ReactMarkdown>{markdownBody}</ReactMarkdown>
+                      <ReactMarkdown remarkPlugins={[remarkExternalLinks]}>
+                        {markdownBody}
+                      </ReactMarkdown>
                       <PostFooter {...frontmatter} />
                     </div>
                   </div>
