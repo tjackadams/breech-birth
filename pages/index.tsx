@@ -8,6 +8,8 @@ import PostMeta from "@components/PostMeta";
 import PostFooter from "@components/PostFooter";
 import SocialIconBar from "@components/SocialIconBar";
 import remarkExternalLinks, { ExternalLinks } from "remark-external-links";
+import path from "path";
+import { promises as fs } from "fs";
 
 type IndexProps = {
   title: string;
@@ -20,7 +22,6 @@ const Index = ({
   markdownBody,
   ...props
 }: InferGetStaticPropsType<typeof getStaticProps>) => {
-
   return (
     <>
       <Head>
@@ -57,16 +58,20 @@ const Index = ({
 export default Index;
 
 export const getStaticProps: GetStaticProps = async (context) => {
-  const content = await import("../posts/breech-birth.md");
   const configData = await import(`../siteconfig.json`);
-  const data = matter(content.default);
+
+  const postsDirectory = path.join(process.cwd(), "posts");
+  const filename = (await fs.readdir(postsDirectory))[0];
+  const filePath = path.join(postsDirectory, filename);
+  const fileContents = await fs.readFile(filePath, "utf8");
+  const document = matter(fileContents);
 
   return {
     props: {
       title: configData.default.title,
       description: configData.default.description,
-      frontmatter: data.data,
-      markdownBody: data.content,
+      frontmatter: document.data,
+      markdownBody: document.content,
     },
   };
 };
