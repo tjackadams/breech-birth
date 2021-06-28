@@ -12,6 +12,9 @@ import path from "path";
 import { promises as fs } from "fs";
 import addClasses from "rehype-add-classes";
 import gfm from "remark-gfm";
+import slug from "rehype-slug";
+import link from "rehype-autolink-headings";
+import toc from "@jsdevtools/rehype-toc"
 
 type IndexProps = {
   title: string;
@@ -43,6 +46,7 @@ const Index = ({
                       <ReactMarkdown
                         remarkPlugins={[remarkExternalLinks, gfm]}
                         rehypePlugins={[
+                          [slug, { fragment: true }],
                           [
                             addClasses,
                             {
@@ -50,6 +54,21 @@ const Index = ({
                               table: "table table-hover text-center",
                             },
                           ],
+                          [
+                            link,
+                            {
+
+                              content: {
+                                type: "element",
+                                tagName: "i",
+                                properties: {
+                                  className: ["bi", "bi-link-45deg"],
+                                },
+                                children: [],
+                              },
+                            },
+                          ],
+                          [toc, {}]
                         ]}
                       >
                         {markdownBody}
