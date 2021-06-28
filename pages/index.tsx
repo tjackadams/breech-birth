@@ -7,9 +7,10 @@ import ReactMarkdown from "react-markdown";
 import PostMeta from "@components/PostMeta";
 import PostFooter from "@components/PostFooter";
 import SocialIconBar from "@components/SocialIconBar";
-import remarkExternalLinks, { ExternalLinks } from "remark-external-links";
+import remarkExternalLinks from "remark-external-links";
 import path from "path";
 import { promises as fs } from "fs";
+import addClasses from "rehype-add-classes";
 
 type IndexProps = {
   title: string;
@@ -38,7 +39,12 @@ const Index = ({
                   <div className="row justify-content-center postcontent">
                     <div className="col-12">
                       <PostMeta {...frontmatter} />
-                      <ReactMarkdown remarkPlugins={[remarkExternalLinks]}>
+                      <ReactMarkdown
+                        remarkPlugins={[remarkExternalLinks]}
+                        rehypePlugins={[
+                          [addClasses, { blockquote: "blockquote" }],
+                        ]}
+                      >
                         {markdownBody}
                       </ReactMarkdown>
                       <PostFooter {...frontmatter} />
