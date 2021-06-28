@@ -37,16 +37,27 @@ I was happy with my decision to go down the path of ECV -> C-section thus ruling
 
 ## The ECV
 
-So, the doctor booked me in for the ECV the following week and prior to this I looked online and watched videos and read up on what happens. I will admit it made me feel anxious, but I had to try to say I did everything before committing to a C-Section.
-My Midwife paid a routine home visit prior to this, and I mentioned that he was breech and I was booked in for an ECV. She told me that an ECV was only 50% effective. I was happy to go for it anyway so that was fine. She explained you have a scan prior and then they give you an injection to relax your uterus before manually trying to turn him by pushing on your tummy. She also said it could start labour and I would need to be at the hospital and to take my bags for me and baby (just in case).
-She then said have you thought about what your plan is if it does not work? My response was I only have one which is a C-Section. She said what about a vaginal breech delivery?
-I explained how the doctor said that he did not recommend it and mentioned about the hip scan and risk etc. She told me it does not matter. Your baby is breech now and will need a hip scan anyway. I did not know that if your baby is breech by 37 weeks you will automatically be booked for a hip scan anyway and there were no further risks at all to his hips by having a vaginal breech delivery. She told me she did not know why the doctor didn’t recommend it as there are no greater risks to a vaginal breech delivery than a regular vaginal birth. This made me think a little further and I effectively said its 1-1. 1 for, 1 against from professionals. (However, I did think I would side with a doctor over the midwife).
-Anyway, I looked further into the Vaginal breech delivery and couldn’t find much on it and hardly no experiences! 
-On the day of the ECV I was nervous and went into the hospital with butterflies and feeling sick! They gave me the scan and the injection in the tummy. (Sharp scratch) and the doctor began the ECV. 
-I was anxious as I have an umbilical hernia which caused me daily pain throughout my pregnancy, and this is why I was more frightened by the ECV. However, he told me as soon as you say stop I will stop so I thought lets give it a go. 
-He began the procedure, and my hernia did not hurt at all. The ECV was uncomfortable, very uncomfortable but I would not say painful. I read online it was really bad pain etc but let’s face it. You are a few weeks away from childbirth. It can’t hurt more than that! But honestly it did not hurt just very uncomfortable. 
-The doctor managed to turn him 3 times but as soon as he let go the little bugger flipped back straight away. After a good 20 minutes I would say of trying. We gave up and the ECV was unsuccessful.
-I do just want to say even though the ECV was unsuccessful and uncomfortable. I would highly recommend it. It’s not as bad as you read! Do not be put off. Go for it!
+The doctor made an appointment for the following week. During this time I decided to do some research so I know what to expect during the ECV procedure. I will admit that watching the videos online did make me feel very anxious, but I felt I had to give it a try. This way I can say I tried everything before conceding to a C-section.
+A few days before the ECV procedure, my midwife paid a routine home visit to my house. We discussed the ECV procedure and she informed me that its only about 50% effective, I was happy to continue. 
+
+My midwife explained that you have a scan before to ensure baby is still breech and an injection to relax the uterus. The procedure can start labour as well, so it would need to be performed on the labour ward and we should take our bags. She went on to ask *"have you thought about what your plan is if the ECV does not work?"*. I replied with *"C-section"*. She said "what about vaginal breech delivery?".
+
+> We don’t recommend; however, you can have a vaginal breech birth and we will fully support your decision.
+
+I explained how the doctor didn't recommend a vaginal breech delivery and mentioned about the hip scan and risks involved. She told me it does not matter, your baby is breech now and will need a hip scan regardless. I was unaware that if your baby is breech by 37 weeks then you'll be booked in for  a hip scan. There is also no further risks to the hips by having a vaginal breech delivery. My midwife was rather confused on why the doctor wouldn't recommend a vaginal breech birth. There is no greater risks involved with a vaginal breech delivery compared to a normal vaginal delivery or C-section. This gave me a lot to think about, however my initial reaction was to side with the doctor over the midwife.
+
+Here's the current scores.
+
+| Vaginal Breech Delivery | C-section |
+|-|-|
+|1|1|
+
+After the midwife had left I researched vaginal breech delivery as much as I could, but failed to find much on it and hardly any first hand accounts. On the day of the ECV procedure I was nervous and feeling sick. Before I became pregnant, I suffered with an umbilical hernia. I had an operation to fix it by attaching a mesh on the inside of my stomach by staples. The mesh had come away and caused me daily pain throughout my pregnancy. I was frightened that the ECV procedure might make this pain even worse. 
+
+The midwife and doctor gave me the scan and injection into the stomach, the doctor began the procedure. The thing I had been so worried about, my hernia hurting actually didn't hurt at all. The ECV was uncomfortable, very uncomfortable, but let's face it, you are a few weeks away from childbirth. It can't and doesn't hurt more than that! The doctor had managed to turn him 3 times, but as soon as the doctor let go the little bugger flipped back to his original position. Looks like he was settled where he was.
+After about 20 minutes we gave up and the ECV was unsuccessful. 
+
+I would like to emphasise that even though the ECV was unsuccessful and uncomfortable, I would highly recommend it. Its not as bad as people make out on the internet. Don't be put off, go for it!
 
 ## The Decision
 

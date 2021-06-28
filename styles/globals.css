@@ -97,3 +97,8 @@ img.avatar {
 .postcontent .entry-content p {
   word-break: break-word;
 }
+
+blockquote {
+  border-left: 15px solid var(--bs-teal);
+  padding-left: 15px;
+}

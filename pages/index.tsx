@@ -11,6 +11,7 @@ import remarkExternalLinks from "remark-external-links";
 import path from "path";
 import { promises as fs } from "fs";
 import addClasses from "rehype-add-classes";
+import gfm from "remark-gfm";
 
 type IndexProps = {
   title: string;
@@ -40,9 +41,15 @@ const Index = ({
                     <div className="col-12">
                       <PostMeta {...frontmatter} />
                       <ReactMarkdown
-                        remarkPlugins={[remarkExternalLinks]}
+                        remarkPlugins={[remarkExternalLinks, gfm]}
                         rehypePlugins={[
-                          [addClasses, { blockquote: "blockquote" }],
+                          [
+                            addClasses,
+                            {
+                              blockquote: "blockquote text-center mt-5 mb-5",
+                              table: "table table-hover text-center",
+                            },
+                          ],
                         ]}
                       >
                         {markdownBody}
