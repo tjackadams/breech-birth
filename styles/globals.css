@@ -136,3 +136,7 @@ blockquote {
   margin-left: -40px;
   padding-right: 4px;
 }
+
+ul.contains-task-list {
+  list-style-type: none;
+}

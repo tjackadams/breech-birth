@@ -80,21 +80,37 @@ After the anti-d injection we went home, it was getting late in the evening so w
 My contractions were lasting 30 seconds each and roughly 4 minutes apart, but not painful. I called the Maternity unit and because he was breech, they asked if we could come in. "Let me finish my Chinese and I'll be right there".
 I arrived at the hospital and placed on a monitor for 30 minutes and it was confirmed, I was having light contractions. They examined me (which I can't stand and find so uncomfortable) and I was 2cm dilated. I would be staying in the hospital overnight to monitor my progress. I was happy about this as I have been worried about not getting to the hospital in time and missing my epidural. Due to COVID-19 restrictions, Tom couldn't be with me and had to sit out in the hallway.
 
+## Early Labour
+
+After a few hours I was moved to the labour ward and Tom could join me again so I was happy. My contractions were very light but regular. I was offered some paracetamol and ibuprofen as pain relief, but I really didn't need it. Not long after I had taken the pain relief, the contraction became irregular and I felt them even less than before. They said they would examine me in another 4 hours which means we could try and get some sleep. The second examination showed I was still 2cm dilated and I wasn't having regular contractions anymore. They said the ECV could have set this off and it was false labour. If I didn't show any progress by the following morning then I would be sent home. I was gutted and so uncomfortable. I wanted this baby out of me! 
+
+The next morning, my contractions were still irregular and the plan was to send me home. Before they discharged me, I went to the toilet and...I saw blood. A lot of bright red blood! Could this be [The Show?](https://www.nhs.uk/pregnancy/labour-and-birth/signs-of-labour/signs-that-labour-has-begun/) I panicked. I called for the midwife and asked to be examined. To my surprise she said "*You're 4cm dilated! You're not going anywhere.*"
+
+**I was in labour.**
+
+I was barely feeling any of my contractions. Even though the monitor was showing contractions, they were so light. The midwives were calling me a trooper because I just sailed through it. I didn't feel much, just a slight period pain.
+As I was having a vaginal breech delivery, I was asked if a student midwife could be present. I said sure! I got talking to the student midwife and she mentioned just how rare vaginal breech births are nowadays. There was a midwife on the ward who had worked there for 5 years and never seen one before.
+
+**_Panic!_**
+
+I had no idea how rare they were, but why? I started to freak out and I immediately wanted the C-section. Why were they so rare? Well there is a lot of criteria needed to qualify, which I did.
+
+* [x] Not first pregnancy.
+* [x] Ideal Birth Weight.
+* [x] Correct breech position (bum first).
+* [x] Other factors, but I was panicking too much to care.
+
+I was the perfect candidate for a vaginal breech birth and it felt like I was a celebrity on the ward. I had no idea and it made me feel like the ward would be ill-equipped to handle this. The student midwife told me the motto they learn at university when dealing with vaginal breech births 
+
+> Hands off the breech.
+
+They try not to assist at all, leaving my body and gravity to do the work. I remember the ECV doctor saying something similar, but I wasn't aware this meant they are unable to touch the baby during delivery. I found out later the reason for this is if you try and help the baby, they can get startled, put their hands up and get stuck.
+
+The panic and worry started to set in as I requested the epidural, the pain frightened me. The midwife, with her dominant and intimidating presence, took me to one side and told it how it was. You need to do all the work and you can't do that with an epidural. You need to feel the push. If you have an epidural, you will need a C-section.
+The panic and fear I felt at this point was unimaginable, but I had to make a decision very quickly. The pressure felt like the whole world was waiting for my decision. I felt at this point, I had no other choice but to deny the epidural and continue on. The midwife was very stern and at the time, I had some very colourful adjectives to describe her. However, once everything was said and done, I ended up thanking her with a card and a present. In that moment, she is what I needed.
+
 ## Labour
 
-They took me to a delivery room to monitor me and Tom could be with me in the delivery room so I was happy. My contractions were very light but regular and she said have some paracetamol. As soon as I took these the contractions became irregular and I didn’t feel any. We got some sleep and they said they would examine me in 4 hours. After being examined I was still 2cm and not having regular contractions. I thought the ECV had set these off and it was false labour and they would send me home. The next morning they were talking of sending me home and had not examined me because I felt nothing and was fine. They agreed to send me home. I was gutted as I was so uncomfortable I wanted this baby out of me! 
-I went to the toiler just before they were going to discharge me and I saw blood. A lot of Bright Red blood! I panicked! 
-I called the nurse and she examined me. She said you are 4cm and you are not going anywhere. I was in labour! 
-Contractions were none existent and even though the monitor was showing contractions they were so light, They were all calling me a trooper and how I was sailing through but I just didn’t feel much. Just slight period pain. 
-Because I was having a vaginal breech delivery they asked if a student could be present. I said sure! Whilst I was talking to her she mentioned how rare a vaginal breech delivery was and how a midwife who was on the ward had been there for 5 years and never seen one before.
-PANIC!!!!!
-I had no idea how rare they were and why? I started to freak out and I wanted a C-Section. Why were they rare? Apparently there are a lot of boxes to tick to qualify which I did. 
-2nd Child – Check
-Ideal Birth Weight – Check
-Correct Breech position (Not feet first but bum first) – Check
-Some other factors that I was panicking too much to care about – Check
-I was the perfect candidate, and I was like a celebrity on the ward. I had no idea and I felt they may be inexperienced, or something would happen! The student said the motto they learn at university is “Hands off the Breach”. They can not assist at all and I have to do all the work. I remember the ECV doctor saying your body does all the work but I didn’t know that they are unable to touch the baby during delivery or really assist. I found out later that apparently if you try to assist with helping the baby can startle and effectively put his hands up and get stuck. This is why they cant assist.
-So I started to panic and I said I wanted an epidural as I didn’t want to feel the pain. The midwife almost pinned me up a corner and said you cant have an epidural. An epidural will result in a C-Section you need to do the work and if you cant feel anything you wont do it and it will end in a C-Section. Cue panic attack number 2. From this point I had to make a decision very quickly and I felt the whole world collapsing on me with pressure and fear. I started to cry with fear and as much a she tried to reassure me she was very stern and I felt I had no choice but to not have an epidural and continue. However I ended up thanking her after with a card and present.
 So no progression happened and they broke my water at 8.30pm. But prior to this I was so scared of the pain even though I hardly had any I said if I cant have an epidural what can I have? They said pethidine. I immediately said yes and they gave me a shot just after they broke my waters and god am I glad! The minute my waters went the contraction pain went from zero to one hundred! It was intense just as I remembered with Jackson before my epidural. The pethidine kicked in and it “knocked the edge off” but was still painful. At one point I said no I cant continue just give me the epidural or a C-Section. The midwife said we will examine you and if you can have an epidural we will give you one. She examined me at 10.00pm and said you are 10cm dilated its time to push and its too late. I remember the fear and begging Tom to help but it was too late. I was going to have a breech delivery.
 Even though it felt like from my waters breaking at 8.30pm to me wanting to push was like 5 minutes it turned out to be an hour and half and I had the urge to push at 10.00pm when they had just told me I was 10cm. I wanted it over as quickly as possible to reduce the number of contractions. 
 At this point there were 8 people in the room from students to midwives to specialist doctors “just in case”. This reassured me. They really do prepare, and you have everyone there who needs to be. The more the merrier to me even if I was an absolute mess! I had the gas and air and even though this made me very sick with Jacksons birth it was a god send with this labour and I wasn’t sick. 
