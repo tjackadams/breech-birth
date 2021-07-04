@@ -55,7 +55,7 @@ Here's the current scores.
 \
 &nbsp;
 
-After the midwife had left I researched vaginal breech delivery as much as I could, but failed to find much on it and hardly any first hand accounts. On the day of the ECV procedure I was nervous and feeling sick. Before I became pregnant, I suffered with an umbilical hernia. I had an operation to fix it by attaching a mesh on the inside of my stomach by staples. The mesh had come away and caused me daily pain throughout my pregnancy. I was frightened that the ECV procedure might make this pain even worse. 
+After the midwife had left I researched vaginal breech delivery as much as I could, but failed to find much on the subject and hardly any first hand accounts. On the day of the ECV procedure I was nervous and feeling sick. Before I became pregnant, I suffered with an umbilical hernia. I had an operation to fix it by attaching a mesh on the inside of my stomach by staples. The mesh had come away and caused me daily pain throughout my pregnancy. I was frightened that the ECV procedure might make this pain even worse. 
 
 The midwife and doctor gave me the scan and injection into the stomach, the doctor began the procedure. The thing I had been so worried about, my hernia hurting actually didn't hurt at all. The ECV was uncomfortable, very uncomfortable, but let's face it, you are a few weeks away from childbirth. It can't and doesn't hurt more than that! The doctor had managed to turn him 3 times, but as soon as the doctor let go the little bugger flipped back to his original position. Looks like he was settled where he was.
 After about 20 minutes we gave up and the ECV was unsuccessful. 
@@ -64,13 +64,21 @@ I would like to emphasise that even though the ECV was unsuccessful and uncomfor
 
 ## The Decision
 
-My midwife was with me during the ECV procedure, and she mentioned again about the vaginal breech birth. I asked the doctor what his thoughts were. (The Tiebreaker!).
-He said yes go for it. There are no further risks, and you will need a hip scan on your son anyway. He said its easier for you as your body will do all the work. (I liked this idea!). I mentioned about the 26% chance of Autism. He said no not at all and that it was nonsense. He was a nice doctor, and I had this automatic feeling of trust with him and he said he recommended it and there were no further risks involved. My midwife said I could still have an epidural as this is what I wanted and then no C-Section and less recovery time. I discussed it with my partner whilst we waited for my Anti-D injection which you need after an ECV if you have a negative blood type. We discussed it and said yes ok let’s go for it.
-When the nurse gave me my anti-d injection she said “I think its great you are having a vaginal breech delivery I really do”. 
-This made me feel great! I felt like I had made the right decision and was proud. Me and Tom (my partner) both regretted not asking her Why!
-We went home late as we had waited a long time for the Anti-D injection and decided to order a Chinese (Mummy’s favourite!). As soon as we ordered I had a light contraction. 4 minutes later I had another…. Then another. Oh Shit I thought! 
-I called the maternity unit as my contractions were lasting 30 seconds each and 4 minutes apart but were not painful. She said as my baby is breech to come in. My Chinese was then delivered so I ate that first then went in. Nothing comes between me and Chinese food! Plus I hadn’t eaten all day as you cant eat before an ECV just in case you need a C-Section. If I was going into labour I needed my energy as it was 8pm. 
-When I got to the hospital they put me on the monitor for 30 minutes or so and yes I was having light contractions. They examined me (which I cant stand and find so uncomfortable) and I was 2cm. She said I would be staying to see how I progressed because my baby was breech. I liked this as I was always worried the hospital send you home and then I wouldn’t get my epidural if it was too late. I was happy to stay in. However due to COVID Tom couldn’t be with me and sat out in the hall. 
+During the ECV procedure, my midwife brought up the subject of a vaginal breech birth again. I asked the doctor what his thoughts were, the tiebreaker? He said "*Yes, go for it*". There would be no further risks and your son will need a hip scan anyway because he is breech. He also mentioned that a vaginal breech birth is easier as gravity and my body will do all the work for me. I liked this idea!
+
+I mentioned to the doctor about the increased chance of Autism and he said there wasn't any, it was all nonsense. He was a nice doctor and I had this automatic feeling of trust with him. He went on to recommend vaginal breech birth and reiterated there were no further risks involved.
+
+My midwife went on to explain that I was still eligible for an epidural which is what I wanted. I needed another anti-d injection after the ECV procedure, so this presented a good opportunity to talk it over with my partner. In the end we decided to go for the vaginal breech delivery, with a C-section as a last resort. 
+
+Some time later the anti-d injection finally arrived and the nurse said 
+
+> I think its great you are having a vaginal breech delivery, I really do. 
+
+This was what I needed to hear, it made me feel great and I felt like I had made the right decision and was proud. My only regret is not asking her why!
+
+After the anti-d injection we went home, it was getting late in the evening so we ordered mummy's favourite, Chinese. You are not allowed to eat before the ECV procedure in-case you end up having a C-section, so by this time I was starving. A few minutes after ordering the Chinese, I had a light contraction. A few minutes later I had another...then another. "Oh shit", I had better start timing these.
+My contractions were lasting 30 seconds each and roughly 4 minutes apart, but not painful. I called the Maternity unit and because he was breech, they asked if we could come in. "Let me finish my Chinese and I'll be right there".
+I arrived at the hospital and placed on a monitor for 30 minutes and it was confirmed, I was having light contractions. They examined me (which I can't stand and find so uncomfortable) and I was 2cm dilated. I would be staying in the hospital overnight to monitor my progress. I was happy about this as I have been worried about not getting to the hospital in time and missing my epidural. Due to COVID-19 restrictions, Tom couldn't be with me and had to sit out in the hallway.
 
 ## Labour
 
