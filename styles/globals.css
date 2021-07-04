@@ -102,3 +102,37 @@ blockquote {
   border-left: 15px solid var(--bs-teal);
   padding-left: 15px;
 }
+
+.markdown-body h1 .bi-link-45deg,
+.markdown-body h2 .bi-link-45deg,
+.markdown-body h3 .bi-link-45deg,
+.markdown-body h4 .bi-link-45deg,
+.markdown-body h5 .bi-link-45deg,
+.markdown-body h6 .bi-link-45deg {
+  visibility: hidden;
+}
+
+.markdown-body h1:hover .anchor .bi-link-45deg,
+.markdown-body h2:hover .anchor .bi-link-45deg,
+.markdown-body h3:hover .anchor .bi-link-45deg,
+.markdown-body h4:hover .anchor .bi-link-45deg,
+.markdown-body h5:hover .anchor .bi-link-45deg,
+.markdown-body h6:hover .anchor .bi-link-45deg {
+  visibility: visible;
+}
+
+.markdown-body h1:hover .anchor,
+.markdown-body h2:hover .anchor,
+.markdown-body h3:hover .anchor,
+.markdown-body h4:hover .anchor,
+.markdown-body h5:hover .anchor,
+.markdown-body h6:hover .anchor {
+  text-decoration: none;
+}
+
+.markdown-body .anchor {
+  float: left;
+  line-height: 1;
+  margin-left: -40px;
+  padding-right: 4px;
+}

@@ -50,7 +50,10 @@ Here's the current scores.
 
 | Vaginal Breech Delivery | C-section |
 |-|-|
-|1|1|
+|1|1|  
+  
+\
+&nbsp;
 
 After the midwife had left I researched vaginal breech delivery as much as I could, but failed to find much on it and hardly any first hand accounts. On the day of the ECV procedure I was nervous and feeling sick. Before I became pregnant, I suffered with an umbilical hernia. I had an operation to fix it by attaching a mesh on the inside of my stomach by staples. The mesh had come away and caused me daily pain throughout my pregnancy. I was frightened that the ECV procedure might make this pain even worse. 
 

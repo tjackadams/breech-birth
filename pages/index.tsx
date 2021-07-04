@@ -39,7 +39,7 @@ const Index = ({
           <div className="row">
             <div className="col-md">
               <main>
-                <article>
+                <article className="markdown-body">
                   <div className="row justify-content-center postcontent">
                     <div className="col-12">
                       <PostMeta {...frontmatter} />
@@ -57,7 +57,6 @@ const Index = ({
                           [
                             link,
                             {
-
                               content: {
                                 type: "element",
                                 tagName: "i",
@@ -66,9 +65,14 @@ const Index = ({
                                 },
                                 children: [],
                               },
+                              properties: {
+                                className: ["anchor"],
+                                ariaHidden: true,
+                                tabIndex: -1,
+                              },
                             },
                           ],
-                          [toc, {}]
+                          [toc, {}],
                         ]}
                       >
                         {markdownBody}
