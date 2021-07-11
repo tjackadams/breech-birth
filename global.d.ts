@@ -13,3 +13,5 @@ declare module "*.md" {
   const html: string;
   export { html };
 }
+
+declare module "rehype-add-classes";

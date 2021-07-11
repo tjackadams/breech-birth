@@ -15,6 +15,7 @@ import gfm from "remark-gfm";
 import slug from "rehype-slug";
 import link from "rehype-autolink-headings";
 import toc from "@jsdevtools/rehype-toc"
+import { rehypeAccessibleEmojis } from "rehype-accessible-emojis";
 
 type IndexProps = {
   title: string;
@@ -72,7 +73,8 @@ const Index = ({
                               },
                             },
                           ],
-                          [toc, {}],
+                          [toc],
+                          [rehypeAccessibleEmojis],
                         ]}
                       >
                         {markdownBody}
