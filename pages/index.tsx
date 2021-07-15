@@ -28,6 +28,11 @@ const Index = ({
   markdownBody,
   ...props
 }: InferGetStaticPropsType<typeof getStaticProps>) => {
+  let currentUrl = "";
+  if (typeof window !== "undefined") {
+    currentUrl = window.location.href;
+  }
+
   return (
     <>
       <Head>
@@ -47,7 +52,7 @@ const Index = ({
           content="http://graphics8.nytimes.com/images/2011/12/08/technology/bits-newtwitter/bits-newtwitter-tmagArticle.jpg"
         />
       </Head>
-      <SocialIconBar />
+      <SocialIconBar currentUrl={currentUrl} />
       <div className="wrapper">
         <div className="container">
           <div className="row">
