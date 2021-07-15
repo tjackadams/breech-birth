@@ -47,7 +47,7 @@ const PostMeta = ({
           {published_date}
         </p>
       </div>
-      <div className="d-flex flex-row justify-content-center social-icon-bar-mobile">
+      <div className="flex-row justify-content-center social-icon-bar-mobile">
         <a
           href={shareUrl}
           target="_blank"
