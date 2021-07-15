@@ -14,7 +14,7 @@ import addClasses from "rehype-add-classes";
 import gfm from "remark-gfm";
 import slug from "rehype-slug";
 import link from "rehype-autolink-headings";
-import toc from "@jsdevtools/rehype-toc"
+import toc from "@jsdevtools/rehype-toc";
 import { rehypeAccessibleEmojis } from "rehype-accessible-emojis";
 
 type IndexProps = {
@@ -40,7 +40,7 @@ const Index = ({
           property="og:url"
           content="http://bits.blogs.nytimes.com/2011/12/08/a-twitter-for-my-sister/"
         />
-        <meta property="og:title" content={title} />
+        <meta property="og:title" content={title} key="title" />
         <meta property="og:description" content={description} />
         <meta
           property="og:image"

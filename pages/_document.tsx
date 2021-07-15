@@ -13,10 +13,10 @@ class MyDocument extends Document {
     return initialProps;
   }
 
-  render() {
+  render(): JSX.Element {
     return (
-      <Html lang="en-GB">
-        <Head></Head>
+      <Html lang="en">
+        <Head>{/* your head if needed */}</Head>
         <body>
           <Main />
           <NextScript />
