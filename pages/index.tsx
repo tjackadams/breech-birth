@@ -17,10 +17,6 @@ import link from "rehype-autolink-headings";
 import toc from "@jsdevtools/rehype-toc";
 import { rehypeAccessibleEmojis } from "rehype-accessible-emojis";
 
-type IndexProps = {
-  title: string;
-  description: string;
-};
 const Index = ({
   title,
   description,
