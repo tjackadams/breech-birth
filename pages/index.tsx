@@ -20,16 +20,12 @@ import { rehypeAccessibleEmojis } from "rehype-accessible-emojis";
 const Index = ({
   title,
   description,
+  url,
   frontmatter,
   markdownBody,
   ...props
 }: InferGetStaticPropsType<typeof getStaticProps>) => {
-  let currentUrl = "";
-  if (typeof window !== "undefined") {
-    currentUrl = window.location.href;
-  }
-
-  const featuredImageUrl = `${currentUrl}${frontmatter.featured_image}`;
+  const featuredImageUrl = `${url}${frontmatter.featured_image}`;
 
   return (
     <>
@@ -39,12 +35,12 @@ const Index = ({
         <meta name="twitter:card" content="summary"></meta>
         <meta name="twitter:site" content="@faye_tomkins"></meta>
         <meta name="twitter:creator" content="@faye_tomkins"></meta>
-        <meta property="og:url" content={currentUrl} />
+        <meta property="og:url" content={url} />
         <meta property="og:title" content={title} key="title" />
         <meta property="og:description" content={description} />
         <meta property="og:image" content={featuredImageUrl} />
       </Head>
-      <SocialIconBar currentUrl={currentUrl} />
+      <SocialIconBar currentUrl={url} />
       <div className="wrapper">
         <div className="container">
           <div className="row">
@@ -118,6 +114,7 @@ export const getStaticProps: GetStaticProps = async (context) => {
     props: {
       title: configData.default.title,
       description: configData.default.description,
+      url: configData.default.url,
       frontmatter: document.data,
       markdownBody: document.content,
     },
