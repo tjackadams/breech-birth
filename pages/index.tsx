@@ -37,10 +37,7 @@ const Index = ({
         <meta name="twitter:card" content="summary"></meta>
         <meta name="twitter:site" content="@faye_tomkins"></meta>
         <meta name="twitter:creator" content="@faye_tomkins"></meta>
-        <meta
-          property="og:url"
-          content="http://bits.blogs.nytimes.com/2011/12/08/a-twitter-for-my-sister/"
-        />
+        <meta property="og:url" content={currentUrl} />
         <meta property="og:title" content={title} key="title" />
         <meta property="og:description" content={description} />
         <meta
