@@ -1,5 +1,3 @@
-import styles from "../styles/PostMeta.module.css";
-
 import Image from "next/image";
 import authorImage from "../public/faye_author.jpg";
 import clsx from "clsx";
@@ -8,12 +6,20 @@ type Props = {
   title: string;
   author: string;
   published_date: string;
+  currentUrl: string;
 };
 
-const PostMeta = ({ title, author, published_date, ...props }: Props) => {
+const PostMeta = ({
+  title,
+  author,
+  published_date,
+  currentUrl,
+  ...props
+}: Props) => {
+  const shareUrl = `https://twitter.com/intent/tweet?url=${currentUrl}`;
   return (
     <>
-      <h1 className={styles["entry-title"]}>{title}</h1>
+      <h1 className="entry-title">{title}</h1>
       <div className="row justify-content-center">
         <div className="col-md-4">
           <div style={{ margin: "20px", textAlign: "center" }}>
@@ -30,12 +36,7 @@ const PostMeta = ({ title, author, published_date, ...props }: Props) => {
         </div>
       </div>
       <div style={{ clear: "both", paddingBottom: "10px" }}></div>
-      <div
-        className={clsx({
-          [styles["entry-meta"]]: true,
-          [styles["entry-meta-layout"]]: true,
-        })}
-      >
+      <div className="entry-meta entry-meta-layout">
         <p
           style={{
             textAlign: "center",
@@ -46,15 +47,9 @@ const PostMeta = ({ title, author, published_date, ...props }: Props) => {
           {published_date}
         </p>
       </div>
-      <div
-        className={clsx({
-          [styles["social-icon-bar-mobile"]]: true,
-          row: true,
-          "justify-content-center": true,
-        })}
-      >
+      <div className="d-flex flex-row justify-content-center social-icon-bar-mobile">
         <a
-          href="http://"
+          href={shareUrl}
           target="_blank"
           title="Share on Twitter"
           rel="noopener noreferrer nofollow"

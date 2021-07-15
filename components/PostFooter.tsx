@@ -1,7 +1,5 @@
-import styles from "../styles/PostFooter.module.css";
 import Image from "next/image";
 import authorImage from "../public/faye_author.jpg";
-import clsx from "clsx";
 
 const PostFooter = ({}) => {
   return (
@@ -31,10 +29,7 @@ const PostFooter = ({}) => {
           <p>
             <strong>Follow</strong>
             <a
-              className={clsx({
-                "no-underline": true,
-                [styles["stayinformed"]]: true,
-              })}
+              className="no-underline stayinformed"
               aria-label="Faye Twitter profile"
               target="_blank"
               href="https://twitter.com/faye_tomkins"

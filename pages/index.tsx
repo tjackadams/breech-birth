@@ -48,8 +48,8 @@ const Index = ({
               <main>
                 <article className="markdown-body">
                   <div className="row justify-content-center postcontent">
-                    <div className="col-12">
-                      <PostMeta {...frontmatter} />
+                    <div className="entry-content col-12">
+                      <PostMeta {...frontmatter} currentUrl={url} />
                       <ReactMarkdown
                         remarkPlugins={[remarkExternalLinks, gfm]}
                         rehypePlugins={[

@@ -1,5 +1,3 @@
-import styles from "../styles/SocialIconBar.module.css";
-
 type SocialIconBarProps = {
   currentUrl: string;
 };
@@ -8,7 +6,7 @@ const SocialIconBar = ({ currentUrl }: SocialIconBarProps) => {
   const shareUrl = `https://twitter.com/intent/tweet?url=${currentUrl}`;
 
   return (
-    <div className={styles["social-icon-bar"]}>
+    <div className="social-icon-bar">
       <a
         href={shareUrl}
         title="Share on Twitter"
