@@ -25,7 +25,7 @@ const PostFooter = ({}) => {
             className="avatar"
           ></Image>
         </div>
-        <h5>Faye</h5>
+        <p className="h5">Faye</p>
         <div>
           <p></p>
           <p>
