@@ -2,6 +2,7 @@
 title: 'Vaginal Breech Birth - My Experience'
 author: 'Faye'
 published_date: 'June 24th, 2021'
+featured_image: "mother_child_hand.jpg"
 ---
 
 Hello. My name is Faye and I wanted to write my experience on a vaginal breech delivery I had with my second son (and my last child!) on 11th June 2021. 

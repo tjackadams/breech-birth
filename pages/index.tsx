@@ -29,6 +29,8 @@ const Index = ({
     currentUrl = window.location.href;
   }
 
+  const featuredImageUrl = `${currentUrl}${frontmatter.featured_image}`;
+
   return (
     <>
       <Head>
@@ -40,10 +42,7 @@ const Index = ({
         <meta property="og:url" content={currentUrl} />
         <meta property="og:title" content={title} key="title" />
         <meta property="og:description" content={description} />
-        <meta
-          property="og:image"
-          content="http://graphics8.nytimes.com/images/2011/12/08/technology/bits-newtwitter/bits-newtwitter-tmagArticle.jpg"
-        />
+        <meta property="og:image" content={featuredImageUrl} />
       </Head>
       <SocialIconBar currentUrl={currentUrl} />
       <div className="wrapper">
