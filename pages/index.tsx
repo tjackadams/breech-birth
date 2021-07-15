@@ -33,6 +33,19 @@ const Index = ({
       <Head>
         <title>{title}</title>
         <meta name="description" content={description} />
+        <meta name="twitter:card" content="summary"></meta>
+        <meta name="twitter:site" content="@faye_tomkins"></meta>
+        <meta name="twitter:creator" content="@faye_tomkins"></meta>
+        <meta
+          property="og:url"
+          content="http://bits.blogs.nytimes.com/2011/12/08/a-twitter-for-my-sister/"
+        />
+        <meta property="og:title" content={title} />
+        <meta property="og:description" content={description} />
+        <meta
+          property="og:image"
+          content="http://graphics8.nytimes.com/images/2011/12/08/technology/bits-newtwitter/bits-newtwitter-tmagArticle.jpg"
+        />
       </Head>
       <SocialIconBar />
       <div className="wrapper">
