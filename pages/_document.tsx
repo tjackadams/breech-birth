@@ -16,7 +16,23 @@ class MyDocument extends Document {
   render(): JSX.Element {
     return (
       <Html lang="en">
-        <Head>{/* your head if needed */}</Head>
+        <Head>
+          <script
+            async
+            src="https://www.googletagmanager.com/gtag/js?id=G-4CE4XNKKG6"
+          ></script>
+          <script
+            dangerouslySetInnerHTML={{
+              __html: `
+            window.dataLayer = window.dataLayer || [];
+            function gtag(){dataLayer.push(arguments);}
+            gtag('js', new Date());
+
+            gtag('config', 'G-4CE4XNKKG6');
+            `,
+            }}
+          />
+        </Head>
         <body>
           <Main />
           <NextScript />
